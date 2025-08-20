@@ -1,0 +1,19 @@
+#Searching Algorithms: 
+Searching algorithms are essential tools in computer science used to
+locate specific items within a collection of data. In this tutorial, we are mainly going to focus
+upon searching in an array. When we search an item in an array, there are two most common
+algorithms used based on the type of input array. 
+
+1. Linear search: Linear search, also known as sequential search, is a fundamental algorithm
+used to find a specific element within a data structure, typically a list or an array. It operates
+by sequentially examining each element in the data structure, starting from the beginning, until
+the target element is found or the end of the data structure is reached.
+
+Binary Search: It is used for a sorted array. It mainly compares the array's middle element
+first and if the middle element is same as input, then it returns. Otherwise it searches in either
+left half or right half based on comparison result (Whether the mid element is smaller or greater)
+
+
+Conclusion: -
+ In this assignment, a Python program was successfully developed to search customer
+account id in an e-commerce application
